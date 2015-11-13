@@ -1,5 +1,5 @@
 # RIIS Apprentice Training
-# Android Calculator Project**
+# Android Calculator Project
 
 **Vision Statement**: To allow for an individual to solve math problems
 
